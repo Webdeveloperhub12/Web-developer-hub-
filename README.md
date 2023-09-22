@@ -1,8 +1,6 @@
 # Web-developer-hub-
 
-Dynamic Web & Mobile Solutions
-
-Default (GPT-3.5)
+Dynamic Web & Mobile Solutions.
 
 User
 At web developer hub, we create dynamic website and mobile applications for our clients, we are known globally and our range of services is quite affordable,
@@ -11,7 +9,6 @@ Write an about us
 Our vision and 
 Our mission 
 
-ChatGPT
 About Us:
 Web Developer Hub is a globally renowned hub for cutting-edge web development and mobile application solutions. With a reputation built on excellence and innovation, we are the go-to choice for businesses seeking dynamic online presence. Our commitment to affordability, combined with a passion for creating exceptional digital experiences, sets us apart in the industry.
 
@@ -30,7 +27,6 @@ Our mission is to provide accessible, high-quality web and mobile development se
 User
 Why choose us
 
-ChatGPT
 Choosing Web Developer Hub means choosing excellence, affordability, and innovation. Here's why you should partner with us:
 
 Proven Expertise: With a global reputation for excellence, we bring years of experience and a track record of successful projects to the table.
@@ -56,13 +52,6 @@ Results-Driven Approach: Your success is our success. We are dedicated to delive
 Choose Web Developer Hub for a partnership that goes beyond development – it's a partnership for your digital success.
 
 
-
-
-User
-Add a readme on GitHub 
-
-ChatGPT
-Certainly! Here's an example of a basic README file you can use on your GitHub repository:
 
 Web Developer Hub
 Web Developer Hub is a global hub for dynamic website and mobile application development services. With a reputation for excellence and affordability, we are committed to delivering innovative digital solutions for businesses worldwide.
