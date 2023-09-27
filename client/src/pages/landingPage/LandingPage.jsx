@@ -1,8 +1,13 @@
-import React from 'react'
+import { Navbar,Home } from "../../components"
+
 
 const LandingPage = () => {
   return (
-    <div>LandingPage</div>
+    <>
+    <Navbar/>
+    <Home/>
+    
+    </>
   )
 }
 

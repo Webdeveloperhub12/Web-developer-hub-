@@ -46,3 +46,20 @@
     transform: translateY(0);
   }
 }
+
+.background {
+  background-image: url('assets/bg.jpg');
+  background-size: cover; /* Adjusts the background size */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  height: 100vh; /* Adjust the height as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff; /* Adjust text color for better contrast with the background */
+}
+
+.blury {
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+}
